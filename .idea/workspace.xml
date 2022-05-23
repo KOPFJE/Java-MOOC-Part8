@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f79096c-3677-41b0-8b87-f464b1231fe8" name="Changes" comment="" />
+    <list default="true" id="2f79096c-3677-41b0-8b87-f464b1231fe8" name="Changes" comment="Made the exercises.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cubes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cubes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiquidContainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LiquidContainers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29Yr3QCddERoAAdG8tHPCpwDhLe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,17 +36,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Recap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ToDo" />
+      <module name="Recap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="2f79096c-3677-41b0-8b87-f464b1231fe8" name="Changes" comment="" />
       <created>1653300665774</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653300665774</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made the exercises." />
+    <option name="LAST_COMMIT_MESSAGE" value="Made the exercises." />
   </component>
 </project>
